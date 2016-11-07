@@ -1,15 +1,23 @@
 
 # Zühlke RoboChallenge
-This is the official repository for the Zühlke RoboChallenge.
-You can find more information about the event and registration (students only) on our homepage. 
+This is the official repository for the Zühlke RoboChallenge. 
 
-- 4/5. Nov 2016, Bern (Switzerland), https://www.zuehlke.com/ch/de/robochallenge/ (Information is only available in German)
+__Upcoming events:__
+- tbd
 
-![header](robots.gif)
+__Past events:__
+- 4/5. Nov 2016, Bern (Switzerland), Sumo Challenge
 
-## The Challenge
+|         |            | 
+| ------------- |:-------------:| 
+| ![header](img/robo_01.jpg)      | ![header](img/robo_02.jpg) |
+| ![header](img/robo_03.jpg)      | ![header](img/robo_04.jpg) |
 
-You find detailed information regarding the challenge [here](challenges/sumo.md).
+
+
+## The Challenges
+
+You find detailed information regarding the challenges [here](challenges/sumo.md).
 
 ## Quickstart
 
